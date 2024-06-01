@@ -1,0 +1,72 @@
+/* MenteeRegistration.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
+
+.mentee-registration-page {
+  background: linear-gradient(135deg, rgb(176, 211, 246), rgb(236, 246, 253), #ffffff);
+  min-height: 100vh;
+  padding-top: 80px; /* Navbar yüksekliğini hesaba katmak için */
+}
+
+.cnt-frm {
+  max-width: 800px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h2, h3 {
+  color: rgb(101, 115, 212);
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.card {
+  margin-bottom: 20px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.btn-primary {
+  background-color: rgb(138, 147, 208);
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+.btn-success {
+  background-color: rgb(101, 115, 212);
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: rgb(101, 115, 212);
+}

@@ -1,0 +1,68 @@
+/* Employee.css */
+
+.employee-page {
+    background:  #ffffff;
+    min-height: 100vh;
+    padding-top: 80px; /* Navbar yüksekliğini hesaba katmak için */
+  }
+  
+  .container {
+    max-width: 1200px;
+  }
+  
+  .add-employee-container {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+  }
+  
+  .add-employee-btn {
+    width: auto;
+    margin-top :25px;
+  }
+  
+  .employee-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .employee-card {
+    width: 100%; /* Kartları tam genişlikte tut */
+    max-width: 300px; /* Kartların maksimum genişliği */
+    margin: auto; /* Kartları ortala */
+    cursor: pointer;
+    transition: transform 0.2s;
+  }
+  
+  .employee-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-subtitle {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .btn-outline-success {
+    margin-top: 10px;
+  }
+  

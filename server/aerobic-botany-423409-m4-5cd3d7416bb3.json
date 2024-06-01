@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "aerobic-botany-423409-m4",
+  "private_key_id": "5cd3d7416bb34b4f32bae6582a2c32c4965d673b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfmW4J2/j4Xr3X\nJRFEtrxrgmtSSrTUQrlTJRrSWFs1LuCjuLTyAD4EmXbSGqfs37Qk2HVpiGjRBA3d\nRdLq/RwWFAWkxLOn8L9xgx6Dni1uiz22b6JLog3MHppo2Ko/7RbPKulgiPEdPSl1\nKv5jMDY02gOS/HpbFQS8tERd6t3vcf0NpGqJXUgbex/WLXAoTr/Cm9DT/lfZt/N8\nbnMlBXFBNe/ZjaNU4rwxQNXQIms8sIdqZdOgP9QQfCYvgg3lYa/5QE7by3zKoYBv\nZ1yvfzdUzE3whPwcEE6OvASpAPGx/i7Fa3oL+ckeQ+ytsLehJAN9rCdlYWTKWtFv\n38dbD/VtAgMBAAECggEASXhurRA8HU4z82pHeEvtEkrgD+p/MyWiPdHbdpChMCrr\n08KwXaVZ53EkP1VxD3zt53ZUGqhmpC3LGh1OGso5FzrRXEgG8l1ELEOxlOKIxJZJ\n6wWZ/1pTIq/F4lU3jqUctnLpK3zvDkg9IQiRQeUMVykzswMSaoKTAzGzNU7tKxAi\nC+F5e9pNBiyd6QokWAZ3Hq6PazqkvQ07NDpXHj2mRAikNxNjrzwxtMIlK0H2+WVt\ninxbbhcttzaunoavufPzYvBqvZqduAEW6EzQiWa6eBLKrm+uKgMUZsoVVPqKGEne\nGJALmv9c0a2lb9pOK3b0EEZeEQYGVjMbeDkRA3icOwKBgQDdln4kFMSeqVpenKE0\n3+O2XdSn6xFIFJqzx6Ln1CUL6XQd/GtM0BuaRTb80u5gaATPQYVzLfbeprtH03Pq\n05fzVWCiIVJykcxnoVOGJpQrisyUNQ2AyROtzTocI2wSzUw4Vs2WOrh58ltGQaYQ\n48siaHNAh7pKXu0QgLWFzBXvNwKBgQC4YoEe90XvQ4mnmyegInOscG90NgT+szBq\nSUjptOvYyyEnwEdXLfGSm8FVAyrZxPcUI0boDDNZFnDBVE0dCQImLILrXPcLlTf+\nsBnY2XnoPb71Z2PxejRIzCTeg0Qfgb47xWQzV5VXdh450l+U13bUA3IqtRvYrVs/\n9BhCxHEqewKBgQCxP3tBU1d/7sm52qJc0CavLtk3RKI7PTgOTMezl4/WunRGtC4E\ncIdT3L/Cdtt1RF9sheXAn2jU6xvttWgI1B6853N33R29RYDy+Cn+qgdl2Q4SE2ns\ntWtHYF12OqNtWsj4W/7xh6Ee8s0uIr86zWwk5tYiLS/H46zPwZTyJLD6+wKBgCYB\nB6QeS2fZf9HwBObYswbj1dUaHUVyIZSGrmSdSc9RbvAGja3GZnhVai/fi0F/e33H\nF6JUgXDnUy5F9e76IFtF6WYhrznP886m9WzgxmO79lQWj18CVSx8B01luPDViSRA\ntzpt3vY7/lbkqZbAIlnoq+tpkOfEM36nDSkV3E1pAoGBAK7qNanTAPdPU7ZLRG6O\n7r+GQGeNs5dj5QWLOSJ3dvCcRLa5uqPpslnwwagF/1eBkMZTWnbbrbkDkofFTne0\nt2T3Zq+GE/E/c0hZzTvPjOkVX46PTJfwj4lFIgbzvvH/UdJIjbRkX2eW+2OdOUFa\nyz1fDF7ohsrTNLt2QP65xYcz\n-----END PRIVATE KEY-----\n",
+  "client_email": "senior-design@aerobic-botany-423409-m4.iam.gserviceaccount.com",
+  "client_id": "106718254492159234785",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/senior-design%40aerobic-botany-423409-m4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

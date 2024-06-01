@@ -1,0 +1,27 @@
+/* Navbar.css */
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 1rem;
+  background: linear-gradient(135deg, rgb(228, 241, 252), rgb(236, 246, 253), #ffffff);
+
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  
+  }
+
+.nav-link {
+  margin-right: 1rem;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  color: rgb(101, 115, 212) !important;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: rgb(101, 115, 212);
+}

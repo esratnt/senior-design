@@ -1,0 +1,59 @@
+/* Shop.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+}
+
+.shop-page {
+  background: linear-gradient(135deg, rgb(176, 211, 246), rgb(236, 246, 253), #ffffff);
+  min-height: 100vh;
+  padding-top: 80px; /* Navbar yüksekliğini hesaba katmak için */
+}
+
+.container-product {
+  max-width: 600px;
+}
+
+.product-form {
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+.product-form .form-label {
+  font-weight: bold;
+  color: rgb(101, 115, 212); /* Label renkleri */
+}
+
+.product-form .form-control {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.product-form .form-control:focus {
+  border-color: rgb(176, 211, 246);
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+.product-form .btn {
+  width: 100%;
+  background-color: rgb(101, 115, 212);
+  border: none;
+}
+
+.product-form .btn:hover {
+  background-color: rgb(101, 115, 212);
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(101, 115, 212);
+}
